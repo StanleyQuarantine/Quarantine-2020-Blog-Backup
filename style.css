@@ -1,0 +1,78 @@
+/* CSS Document */
+
+/* CSS Declarations
+Key-Value Pair of a CSS property and its Values
+Used to set style properties and contruct rules to apply to individual or groups of elements
+ */
+/*Lmao The Hex Codes are Canucks colors*/
+
+body, p {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	text-align: center;
+	font-size: 100%;
+	background-color: #008852;
+	opacity: 1;
+	word-wrap: normal;
+}
+
+head {
+	word-wrap: normal;
+}
+
+div {
+	background-color: #008852;
+	opacity: 1;
+}
+
+#titlearticle {
+	text-align: center;
+	font-size: xxx-large;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.tablecontents {
+	color: whitesmoke;
+	font-size: 120%
+}
+
+.musicgenre {
+	color: #00205b
+	;
+}
+
+.titles {
+	color: #041c2c;
+	font-family: Arial;
+	text-align: Center;
+	font-size: xx-large; 
+	font-weight: bold;
+}
+
+footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	color: white;
+	height: 2.5rem;
+}
+
+#pagecontainer {
+	position: relative;
+	min-height: 100vh;
+}
+
+#contentwrap {
+	padding-bottom: 2.5rem;
+}
+
+/* #mustardpic {  Shits busted, takes up the entire screen, lmao 
+	width: 100%;
+	height: 100%;
+} */
+
+#pengdance {
+	float: none;
+	position: none;
+	width: 300px;
+	height: 300px;
+}
