@@ -41,7 +41,7 @@ div {
 }
 
 .titles {
-	color: #041c2c;
+	color: #00205b;
 	font-family: Arial;
 	text-align: Center;
 	font-size: xx-large; 
@@ -70,9 +70,24 @@ footer {
 	height: 100%;
 } */
 
-#pengdance {
+#PengDance {
 	float: none;
 	position: none;
 	width: 300px;
 	height: 300px;
+	Border-color: black;
+	border-width: 5px;
+	border-style: solid;
+	border-radius: 200px;
+}
+
+.images {
+	width: 500px;
+	height: 350px;
+	margin: 10px 10px 10px 10px;
+	padding: 10px 10px 10px 10px;
+	border: black;
+	border-width: 5px;
+
+
 }
